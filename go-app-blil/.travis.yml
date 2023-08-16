@@ -1,0 +1,17 @@
+language: go
+
+os:
+  - linux
+  - osx
+
+go:
+  - 1.14.x
+
+addons:
+  apt:
+    packages:
+      - libusb-1.0-0-dev
+      - libusb-1.0-0
+  homebrew:
+    packages:
+      - libusb
