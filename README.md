@@ -6,8 +6,8 @@ A curated repository containing a compilation of documentation and code related 
 
 - **[doc-official](/doc-official)**: [blink(1) Main Documentation](https://github.com/todbot/blink1/tree/main/docs)
 - **[doc-hardware](/doc-hardware)**: [blink(1) Hardware Specification](https://github.com/todbot/blink1/tree/main/hardware)
-- **[doc-hardware-mk3]**: [blink(1) mk3 Hardware Specification](https://github.com/todbot/blink1mk3)
-- **[doc-hardware-mk3/bootloader/tomu-bootloader]**: [Bootloader for Tomu board](https://github.com/todbot/tomu-bootloader)
+- **[doc-hardware-mk3](/doc-hardware-mk3)**: [blink(1) mk3 Hardware Specification](https://github.com/todbot/blink1mk3)
+- **[doc-hardware-mk3/bootloader/tomu-bootloader](/doc-hardware-mk3/bootloader/tomu-bootloader)**: [Bootloader for Tomu board](https://github.com/todbot/tomu-bootloader)
 
 ## 🔧 Tools and Libraries
 
