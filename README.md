@@ -4,8 +4,10 @@ A curated repository containing a compilation of documentation and code related 
 
 ## 📄 Official Documentation
 
-- **[doc-official](/doc-official)**: [blink1 Main Documentation](https://github.com/todbot/blink1/tree/main/docs)
-- **[doc-hardware](/doc-hardware)**: [blink1 Hardware Specification](https://github.com/todbot/blink1/tree/main/hardware)
+- **[doc-official](/doc-official)**: [blink(1) Main Documentation](https://github.com/todbot/blink1/tree/main/docs)
+- **[doc-hardware](/doc-hardware)**: [blink(1) Hardware Specification](https://github.com/todbot/blink1/tree/main/hardware)
+- **[doc-hardware-mk3]**: [blink(1) mk3 Hardware Specification](https://github.com/todbot/blink1mk3)
+- **[doc-hardware-mk3/bootloader/tomu-bootloader]**: [Bootloader for Tomu board](https://github.com/todbot/tomu-bootloader)
 
 ## 🔧 Tools and Libraries
 
@@ -19,8 +21,8 @@ A curated repository containing a compilation of documentation and code related 
 
 ### Go Libraries
 
-- **[go-offical-lib-old](/go-offical-lib-old)**: [Official Blink1 Go Library (Old)](https://github.com/todbot/blink1/tree/main/go/GoBlink)
-- **[go-offical-lib-new](/go-offical-lib-new)**: [Official Blink1 Go Library (New)](https://github.com/hink/go-blink1)
+- **[go-offical-lib-old](/go-offical-lib-old)**: [Official blink(1) Go Library (Old)](https://github.com/todbot/blink1/tree/main/go/GoBlink)
+- **[go-offical-lib-new](/go-offical-lib-new)**: [Official blink(1) Go Library (New)](https://github.com/hink/go-blink1)
 - **[go-boombuler-hid](/go-boombuler-hid)**: [hid by boombuler](https://github.com/boombuler/hid)
 - **[go-boombuler-led](/go-boombuler-led)**: [led by boombuler](https://github.com/boombuler/led)
 
