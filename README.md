@@ -9,6 +9,10 @@ A curated repository containing a compilation of documentation and code related 
 - **[doc-hardware-mk3](/doc-hardware-mk3)**: [blink(1) mk3 Hardware Specification](https://github.com/todbot/blink1mk3)
 - **[doc-hardware-mk3/bootloader/tomu-bootloader](/doc-hardware-mk3/bootloader/tomu-bootloader)**: [Bootloader for Tomu board](https://github.com/todbot/tomu-bootloader)
 
+## 📦 Binaries
+
+- **[bin-blink1-tool](/bin-blink1-tool)**: [blink1-tool commandline tool v2.3.0](https://github.com/todbot/blink1-tool/releases/tag/v2.3.0)
+
 ## 🔧 Tools and Libraries
 
 ### C Libraries
@@ -16,7 +20,7 @@ A curated repository containing a compilation of documentation and code related 
 **Blink(1) 💡:**
 
 - **[c-blink1-tool](/c-blink1-tool)**:
-  - [Source Code](https://github.com/todbot/blink1-tool.git)
+  - [Source Code](https://github.com/todbot/blink1-tool)
   - [Introduction](http://blink1.thingm.com/blink1-tool/)
   - [Usage](https://github.com/todbot/blink1/blob/main/docs/blink1-tool.md)
 
