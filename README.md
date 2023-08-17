@@ -40,7 +40,7 @@ USB:
 - **[go-karalabe-usb](/go-karalabe-usb)**: [libusb+hidapi from karalabe](https://github.com/karalabe/usb)
 - **[go-karalabe-hid](/go-karalabe-hid)**: [hidapi wrapper from karalabe](https://github.com/karalabe/hid)
 - **[go-geertjohan-gohid](/go-geertjohan-gohid)**: [hidapi wrapper from GeertJohan](https://github.com/GeertJohan/go.hid)
-
+- **[go-sstallion-gohid](/go-sstallion-gohid)**: [hidapi wrapper from sstallion](https://github.com/sstallion/go-hid)
 
 ### Go Applications
 
