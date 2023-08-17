@@ -1,0 +1,16 @@
+language: go
+
+os:
+  - osx
+
+go:
+  - "1.12.x"
+  - "1.13.x"
+  - "1.14.x"
+  - "1.15.x"
+
+script:
+  - go test -v ./...
+
+before_install:
+  - brew upgrade libusb

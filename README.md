@@ -41,6 +41,7 @@ A curated repository containing a compilation of documentation and code related 
 - **[go-karalabe-hid](/go-karalabe-hid)**: [hidapi wrapper from karalabe](https://github.com/karalabe/hid)
 - **[go-geertjohan-gohid](/go-geertjohan-gohid)**: [hidapi wrapper from GeertJohan](https://github.com/GeertJohan/go.hid)
 - **[go-sstallion-hid](/go-sstallion-hid)**: [hidapi wrapper from sstallion](https://github.com/sstallion/go-hid)
+- **[go-gotmc-libusb](/go-gotmc-libusb)**: [libusb wrapper from gotmc](https://github.com/gotmc/libusb)
 
 ### Go Applications
 
