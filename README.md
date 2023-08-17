@@ -27,6 +27,7 @@ A curated repository containing a compilation of documentation and code related 
 - **[go-boombuler-led](/go-boombuler-led)**: [led by boombuler](https://github.com/boombuler/led)
 - USB HID Libraries
   - **[go-google-gousb](/go-google-gousb)**: [libusb wrapper from Google](https://github.com/google/gousb)
+  - **[go-karalabe-usb](/go-karalabe-usb)**: [libusb+hidapi from karalabe](https://github.com/karalabe/usb)
 
 
 ### Go Applications
