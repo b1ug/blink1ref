@@ -13,6 +13,11 @@ A curated repository containing a compilation of documentation and code related 
 
 - **[bin-blink1-tool](/bin-blink1-tool)**: [blink1-tool commandline tool v2.3.0](https://github.com/todbot/blink1-tool/releases/tag/v2.3.0)
 
+```bash
+sudo cp blink1-tool-darwin /usr/local/bin/blink1tool
+chmod +x /usr/local/bin/blink1tool
+```
+
 ## 🔧 Tools and Libraries
 
 ### C Libraries
