@@ -22,7 +22,8 @@ Blink(1):
 
 USB:
 
-- **[c-hidapi](/c-hidapi)**: [hidapi by libusb](https://github.com/libusb/hidapi)
+- **[c-libusb-hidapi](/c-libusb-hidapi)**: [hidapi by libusb](https://github.com/libusb/hidapi)
+- **[c-signal11-hidapi](/c-signal11-hidapi)**: [hidapi by signal11](https://github.com/signal11/hidapi)
 
 ### Go Libraries
 
