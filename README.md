@@ -51,6 +51,7 @@ chmod +x /usr/local/bin/blink1tool
 - **[go-geertjohan-gohid](/go-geertjohan-gohid)**: [hidapi wrapper from GeertJohan](https://github.com/GeertJohan/go.hid)
 - **[go-sstallion-hid](/go-sstallion-hid)**: [hidapi wrapper from sstallion](https://github.com/sstallion/go-hid)
 - **[go-gotmc-libusb](/go-gotmc-libusb)**: [libusb wrapper from gotmc](https://github.com/gotmc/libusb)
+- **[go-dolmen-hid](/go-dolmen-hid)**: [hidapi/libusb wrapper from dolmen](https://github.com/dolmen-go/hid)
 
 ### Go Applications
 
